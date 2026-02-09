@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.8">
   <diagram name="第 1 页" id="Jyp-rvnBL_3NzgrEo1V7">
-    <mxGraphModel dx="945" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,10 @@
           <mxGeometry height="878" width="288" x="120" y="190" as="geometry" />
         </mxCell>
         <mxCell id="vqrZWhoXRQ12iZ7mfcA6-2" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
-          <mxGeometry height="180" width="20" x="430" y="360" as="geometry" />
+          <mxGeometry height="180" width="20" x="420" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="rJ00aRxV-x7wbefplgUX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=23;" value="任务1: 问卷改造&lt;div&gt;任务2: AI识别模块开发&lt;/div&gt;&lt;div&gt;AI开发：石心、树达&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="480" y="545" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
